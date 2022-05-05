@@ -2819,3 +2819,8 @@ button.alt:active,
 		border-left: 0;
 	}
 }
+
+/* List */
+li {
+	list-style-type: none;
+}
