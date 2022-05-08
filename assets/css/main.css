@@ -222,7 +222,8 @@ h6 a {
 	border: 0;
 }
 
-p a {
+p a,
+li a {
 	font-weight: 400;
 }
 
