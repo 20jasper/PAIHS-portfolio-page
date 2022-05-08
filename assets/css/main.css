@@ -2828,3 +2828,7 @@ button.alt:active,
 li {
 	list-style-type: none;
 }
+/* Logo */
+#logo a {
+	border: 0px solid red;
+}
