@@ -260,7 +260,7 @@ a strong {
 
 a:hover {
 	color: #9067c6;
-	border-bottom-color: rgba(255, 255, 255, 0);
+	border-bottom-color: rgb(233, 204, 47);
 }
 
 a:hover strong {
