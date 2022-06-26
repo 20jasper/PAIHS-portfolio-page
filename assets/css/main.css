@@ -2830,7 +2830,9 @@ li {
 	list-style-type: none;
 }
 /* Logo */
-
+.logo a {
+	border: 0px solid red;
+}
 a.logo {
 	display: flex;
 	align-items: center;
