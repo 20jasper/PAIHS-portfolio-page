@@ -2830,16 +2830,14 @@ li {
 	list-style-type: none;
 }
 /* Logo */
-.logo a {
-	border: 0px solid red;
-}
-a.logo {
+
+img.logo {
 	display: flex;
 	align-items: center;
 	margin-top: 2em;
 }
 
-a.logo img {
+.logo img {
 	width: 10em;
 }
 section.logo {
