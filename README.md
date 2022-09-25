@@ -6,7 +6,7 @@ View information on compentency based portfolios for PAIHS students
 **Link to project:** https://paihsportfolios.netlify.app/
 
 
-![The homepage for PAIHS portfolios. There is a large purple crest with hands handing the globe below a large purple heading that says PAIHS portfolios](https://user-images.githubusercontent.com/78604367/190449712-5d834ec4-354c-4a35-953b-47ff17f5c5b1.png)
+![A large purple crest with hands handing the globe below a large purple heading that says PAIHS portfolios](https://user-images.githubusercontent.com/78604367/190449712-5d834ec4-354c-4a35-953b-47ff17f5c5b1.png)
 
 ## How It's Made:
 
